@@ -28,6 +28,7 @@ nord:
   graph-color: "var(--primary-color)"
   primary-background-color: "var(--nord0)"
   secondary-background-color: "var(--nord3)"
+  code-editor-background-color: "var(--nord0)"
   divider-color: "var(--nord3)"
   disabled-color: grey
 
